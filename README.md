@@ -1,7 +1,7 @@
 # Summarization
 The discussed papers showcase the use of artificial intelligence (AI) in military simulations and decision-making. They propose integrating AI to generate realistic tactical behavior, with AI providing strategies and orders to ground combat units while communicating with human operators through natural language. The studies demonstrate the training of reinforcement learning (RL) agents to act as battalion commanders, issuing orders and requesting fire support, and competing against each other to enhance their strategies. Additionally, the papers present the application of a commercial off-the-shelf quadcopter for autonomous surveillance, detecting and tracking objects in a monitored area. The integration of AI and advancements in technology is emphasized, as it is expected to have a significant impact on military operations and accelerate decision-making processes.
 
-# 2023: [UPCOMMING] WinterSim - Incorporation of Military Doctrines and Objectives into an ai Agent via Natural Language and Reward in Reinforcement Learning
+# 2023: [UPCOMING] WinterSim - Incorporation of Military Doctrines and Objectives into an ai Agent via Natural Language and Reward in Reinforcement Learning
 Will be presented at the WinterSim 2023 in december: [https://meetings.informs.org/wordpress/wsc2023/
 
 # 2022: WinterSim - AI-based Military Decision Support Using Natural Language
