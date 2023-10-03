@@ -6,7 +6,7 @@ Will be presented at the WinterSim 2023 in december: https://meetings.informs.or
 
 # 2023: [UPCOMING] NMSG Symposium ‘Simulation: Going Beyond the Limitations of the Real World’ (MSG-207)
 Invited Presentation - Natural language AI for military decision support and swarm  control for autonomous UAS trained in a combat simulation
-
+https://events.sto.nato.int/index.php/upcoming-events/event-list/event/17-symposium/520-nmsg-symposium-simulation-going-beyond-the-limitations-of-the-real-world-msg-207
 
 # 2022: WinterSim - AI-based Military Decision Support Using Natural Language
 To mimic a realistic representation of military operations, serious combat simulations require sound tactical behavior from modeled entities. Therefore, one must define combat tactics, doctrines, rules of engagement, and concepts of operation. Reinforcement learning has been proven to generate a broad range of tactical actions within the behavioral boundaries of the involved entities. In a multi-agent ground combat scenario, this paper demonstrates how our artificial intelligence (AI) application develops strategies and provides orders to subsidiary units while conducting missions accordingly. We propose a combined approach where human knowledge and responsibility collaborate with an AI system. To communicate on a common level, the orders and actions imposed by AI are given in natural language. This empowers the human operator to act in a human-on-the-loop role in order to validate and evaluate the reasoning of AI. This paper showcases the successful integration of natural language into the reinforcement learning process.
